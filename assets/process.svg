@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="NaxtBrand process: Discovery and Audit, Design and Build, Launch and Growth">
+<defs>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.035"/></pattern>
+</defs>
+<rect width="1280" height="300" rx="28" fill="#07080d"/>
+<rect width="1280" height="300" rx="28" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="1279" height="299" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+<path d="M259 96H594 M686 96H1021" stroke="#1b1f2e" stroke-width="2" fill="none"/>
+<path d="M259 96H594 M686 96H1021" stroke="#22d3ee" stroke-opacity="0.8" stroke-width="2" stroke-dasharray="6 10" fill="none">
+  <animate attributeName="stroke-dashoffset" from="32" to="0" dur="1.6s" repeatCount="indefinite"/>
+</path>
+<circle r="5" fill="#22d3ee"><animateMotion dur="3.2s" repeatCount="indefinite" path="M259 96H594"/></circle>
+<circle r="5" fill="#22d3ee"><animateMotion dur="3.2s" begin="1.6s" repeatCount="indefinite" path="M686 96H1021"/></circle>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.0s" fill="freeze"/>
+    <circle cx="213" cy="96" r="38" fill="#0d0f19" stroke="#1b1f2e" stroke-width="1.5"/>
+    <circle cx="213" cy="96" r="38" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="40 200" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 213 96" to="360 213 96" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="213" y="103" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">01</text>
+    <text x="213" y="186" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">Discovery &amp; Audit</text>
+    <text x="213" y="222" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5">We analyze your brand, tech stack and</text>
+    <text x="213" y="245" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5">audience to plan real growth.</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.35s" fill="freeze"/>
+    <circle cx="640" cy="96" r="38" fill="#0d0f19" stroke="#1b1f2e" stroke-width="1.5"/>
+    <circle cx="640" cy="96" r="38" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="40 200" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 640 96" to="360 640 96" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="640" y="103" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">02</text>
+    <text x="640" y="186" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">Design &amp; Build</text>
+    <text x="640" y="222" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5">We craft custom UI systems and build</text>
+    <text x="640" y="245" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5">high-performance web applications.</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.7s" fill="freeze"/>
+    <circle cx="1067" cy="96" r="38" fill="#0d0f19" stroke="#1b1f2e" stroke-width="1.5"/>
+    <circle cx="1067" cy="96" r="38" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="40 200" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 1067 96" to="360 1067 96" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1067" y="103" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">03</text>
+    <text x="1067" y="186" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">Launch &amp; Growth</text>
+    <text x="1067" y="222" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5">We optimize conversions, run campaigns</text>
+    <text x="1067" y="245" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5">and scale your systems.</text>
+  </g>
+</svg>

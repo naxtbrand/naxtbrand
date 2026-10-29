@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="596" viewBox="0 0 1280 596" role="img" aria-label="NaxtBrand services">
+<defs>
+  <linearGradient id="cardglow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#818cf8" stop-opacity="0.10"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></linearGradient>
+  <linearGradient id="cardline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818cf8" stop-opacity="0"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.035"/></pattern>
+</defs>
+<rect width="1280" height="596" rx="28" fill="#07080d"/>
+<rect width="1280" height="596" rx="28" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="1279" height="595" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g transform="translate(40 40)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" dur="0.7s" begin="0.0s" fill="freeze"/>
+    <rect width="384" height="244" rx="20" fill="#0d0f19" stroke="#1b1f2e"/>
+    <rect x="1" y="1" width="382" height="90" rx="19" fill="url(#cardglow)"/>
+    <g transform="translate(28 30)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="26" height="22" rx="3"/><path d="M1 9h26"/><path d="M11 14l-3 3 3 3M17 14l3 3-3 3"/></g>
+    <text x="356" y="52" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#4b5166">01</text>
+    <text x="28" y="108" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Web Development</text>
+    <text x="28" y="140" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5"><tspan x="28" dy="0">Fast, scalable Next.js and React applications</tspan><tspan x="28" dy="23">built on modern, maintainable code.</tspan></text>
+    <path d="M28 192H356" stroke="#1b1f2e"/>
+    <text x="28" y="220" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#6d7488">NEXT.JS  /  TYPESCRIPT</text>
+    <rect x="24" y="0" width="110" height="2" fill="url(#cardline)">
+      <animate attributeName="x" values="24;250;24" dur="7s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </rect>
+  </g>
+  <g transform="translate(448 40)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" dur="0.7s" begin="0.15s" fill="freeze"/>
+    <rect width="384" height="244" rx="20" fill="#0d0f19" stroke="#1b1f2e"/>
+    <rect x="1" y="1" width="382" height="90" rx="19" fill="url(#cardglow)"/>
+    <g transform="translate(28 30)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M19 19l7 7"/><path d="M8 13l3-3 2 2 3-4"/></g>
+    <text x="356" y="52" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#4b5166">02</text>
+    <text x="28" y="108" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Technical SEO</text>
+    <text x="28" y="140" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5"><tspan x="28" dy="0">Core Web Vitals, structured data, on-page and</tspan><tspan x="28" dy="23">local SEO that earn qualified traffic.</tspan></text>
+    <path d="M28 192H356" stroke="#1b1f2e"/>
+    <text x="28" y="220" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#6d7488">CORE WEB VITALS  /  SCHEMA</text>
+    <rect x="24" y="0" width="110" height="2" fill="url(#cardline)">
+      <animate attributeName="x" values="24;250;24" dur="7s" begin="0.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </rect>
+  </g>
+  <g transform="translate(856 40)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" dur="0.7s" begin="0.3s" fill="freeze"/>
+    <rect width="384" height="244" rx="20" fill="#0d0f19" stroke="#1b1f2e"/>
+    <rect x="1" y="1" width="382" height="90" rx="19" fill="url(#cardglow)"/>
+    <g transform="translate(28 30)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 26V16M11 26V9M19 26V13M27 26V3"/></g>
+    <text x="356" y="52" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#4b5166">03</text>
+    <text x="28" y="108" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Paid Advertising</text>
+    <text x="28" y="140" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5"><tspan x="28" dy="0">Google and Meta campaigns backed by high-</tspan><tspan x="28" dy="23">converting landing pages and funnels.</tspan></text>
+    <path d="M28 192H356" stroke="#1b1f2e"/>
+    <text x="28" y="220" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#6d7488">GOOGLE ADS  /  META ADS</text>
+    <rect x="24" y="0" width="110" height="2" fill="url(#cardline)">
+      <animate attributeName="x" values="24;250;24" dur="7s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </rect>
+  </g>
+  <g transform="translate(40 308)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.44999999999999996s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" dur="0.7s" begin="0.44999999999999996s" fill="freeze"/>
+    <rect width="384" height="244" rx="20" fill="#0d0f19" stroke="#1b1f2e"/>
+    <rect x="1" y="1" width="382" height="90" rx="19" fill="url(#cardglow)"/>
+    <g transform="translate(28 30)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="15" height="15" rx="3"/><circle cx="19" cy="19" r="8"/></g>
+    <text x="356" y="52" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#4b5166">04</text>
+    <text x="28" y="108" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">UI/UX &amp; Branding</text>
+    <text x="28" y="140" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5"><tspan x="28" dy="0">Distinct brand identity, Figma design tokens</tspan><tspan x="28" dy="23">and reusable component libraries.</tspan></text>
+    <path d="M28 192H356" stroke="#1b1f2e"/>
+    <text x="28" y="220" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#6d7488">IDENTITY  /  DESIGN SYSTEMS</text>
+    <rect x="24" y="0" width="110" height="2" fill="url(#cardline)">
+      <animate attributeName="x" values="24;250;24" dur="7s" begin="0.44999999999999996s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </rect>
+  </g>
+  <g transform="translate(448 308)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" dur="0.7s" begin="0.6s" fill="freeze"/>
+    <rect width="384" height="244" rx="20" fill="#0d0f19" stroke="#1b1f2e"/>
+    <rect x="1" y="1" width="382" height="90" rx="19" fill="url(#cardglow)"/>
+    <g transform="translate(28 30)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="14" r="3"/><circle cx="24" cy="5" r="3"/><circle cx="24" cy="23" r="3"/><path d="M8 13l13-7M8 15l13 7"/></g>
+    <text x="356" y="52" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#4b5166">05</text>
+    <text x="28" y="108" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">AI Automation</text>
+    <text x="28" y="140" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5"><tspan x="28" dy="0">Connected workflows across your site, CRM,</tspan><tspan x="28" dy="23">payments and messaging channels.</tspan></text>
+    <path d="M28 192H356" stroke="#1b1f2e"/>
+    <text x="28" y="220" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#6d7488">N8N  /  MAKE  /  ZAPIER</text>
+    <rect x="24" y="0" width="110" height="2" fill="url(#cardline)">
+      <animate attributeName="x" values="24;250;24" dur="7s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </rect>
+  </g>
+  <g transform="translate(856 308)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.75s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" dur="0.7s" begin="0.75s" fill="freeze"/>
+    <rect width="384" height="244" rx="20" fill="#0d0f19" stroke="#1b1f2e"/>
+    <rect x="1" y="1" width="382" height="90" rx="19" fill="url(#cardglow)"/>
+    <g transform="translate(28 30)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h26l-10 12v10l-6-3V16z"/></g>
+    <text x="356" y="52" text-anchor="end" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#4b5166">06</text>
+    <text x="28" y="108" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Conversion CRO</text>
+    <text x="28" y="140" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#9aa1b5"><tspan x="28" dy="0">Analytics and funnel insight that turn</tspan><tspan x="28" dy="23">traffic into measurable revenue.</tspan></text>
+    <path d="M28 192H356" stroke="#1b1f2e"/>
+    <text x="28" y="220" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#6d7488">GA4  /  FUNNELS</text>
+    <rect x="24" y="0" width="110" height="2" fill="url(#cardline)">
+      <animate attributeName="x" values="24;250;24" dur="7s" begin="0.75s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </rect>
+  </g>
+</svg>
