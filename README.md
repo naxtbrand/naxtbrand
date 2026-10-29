@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/banner.svg" alt="NaxtBrand - Digital Experiences and Intelligent Automation" width="100%">
+<img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/banner.svg" alt="NaxtBrand - Digital Experiences and Intelligent Automation" width="100%">
 
 <br><br>
 
-<a href="https://naxtbrand.com"><img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/btn-website.svg" alt="Visit Website" height="52"></a>&nbsp;&nbsp;
-<a href="https://naxtbrand.com/schedule"><img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/btn-schedule.svg" alt="Book a Meeting" height="52"></a>&nbsp;&nbsp;
-<a href="https://naxtbrand.com/contact"><img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/btn-contact.svg" alt="Contact Us" height="52"></a>
+<a href="https://naxtbrand.com"><img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/btn-website.svg" alt="Visit Website" height="52"></a>&nbsp;&nbsp;
+<a href="https://naxtbrand.com/schedule"><img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/btn-schedule.svg" alt="Book a Meeting" height="52"></a>&nbsp;&nbsp;
+<a href="https://naxtbrand.com/contact"><img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/btn-contact.svg" alt="Contact Us" height="52"></a>
 
 <br><br>
 
@@ -22,7 +22,7 @@ so ambitious businesses can scale with clarity.
 
 <p align="center">
   <a href="https://naxtbrand.com/services">
-    <img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/services.svg" alt="Web Development, Technical SEO, Paid Advertising, UI/UX and Branding, AI Automation, Conversion CRO" width="100%">
+    <img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/services.svg" alt="Web Development, Technical SEO, Paid Advertising, UI/UX and Branding, AI Automation, Conversion CRO" width="100%">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ so ambitious businesses can scale with clarity.
 <h2 align="center">How We Work</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/process.svg" alt="Discovery and Audit, Design and Build, Launch and Growth" width="100%">
+  <img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/process.svg" alt="Discovery and Audit, Design and Build, Launch and Growth" width="100%">
 </p>
 
 <br>
@@ -48,7 +48,7 @@ so ambitious businesses can scale with clarity.
 <h2 align="center">Technology We Work With</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/marquee.svg" alt="Next.js, React, TypeScript, Tailwind CSS, Figma, Node.js, Stripe, GA4, n8n, Make, Zapier" width="100%">
+  <img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/marquee.svg" alt="Next.js, React, TypeScript, Tailwind CSS, Figma, Node.js, Stripe, GA4, n8n, Make, Zapier" width="100%">
 </p>
 
 <br>
@@ -79,14 +79,14 @@ so ambitious businesses can scale with clarity.
 </p>
 
 <p align="center">
-  <a href="https://naxtbrand.com/schedule"><img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/btn-schedule.svg" alt="Book a Meeting" height="52"></a>&nbsp;&nbsp;
-  <a href="https://naxtbrand.com/contact"><img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/btn-contact.svg" alt="Contact Us" height="52"></a>
+  <a href="https://naxtbrand.com/schedule"><img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/btn-schedule.svg" alt="Book a Meeting" height="52"></a>&nbsp;&nbsp;
+  <a href="https://naxtbrand.com/contact"><img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/btn-contact.svg" alt="Contact Us" height="52"></a>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://naxtbrand.com">
-    <img src="https://raw.githubusercontent.com/naxtbrand/.github/main/profile/assets/footer.svg" alt="NaxtBrand - Digital Experiences. Measurable Growth." width="100%">
+    <img src="https://raw.githubusercontent.com/naxtbrand/naxtbrand/main/assets/footer.svg" alt="NaxtBrand - Digital Experiences. Measurable Growth." width="100%">
   </a>
 </p>
